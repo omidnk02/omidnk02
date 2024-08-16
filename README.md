@@ -2,7 +2,7 @@
 
 I'm 22 years old and passionate about programming, designing, and developing web pages. I'm proficient in HTML and CSS, and currently learning JavaScript and React. I also have extensive experience with WordPress and have developed several e-commerce websites using this platform.
 
-At present, I work as the IT Team Manager at Moshrefi Holding, where I've been honing my skills for over two years. Additionally, I have a solid understanding of SEO, which I apply to my projects.
+At present, I work as the IT Team Manager at 'Moshrefi Holding' where I've been honing my skills for over two years. Additionally, I have a solid understanding of SEO, which I apply to my projects.
 
 I hold a Computer Science diploma, but I consider myself a perpetual student, always eager to learn and explore new and valuable things. Watching movies and series is one of my favorite pastimes, and I proudly identify as a gamer.
 
