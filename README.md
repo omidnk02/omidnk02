@@ -1,4 +1,5 @@
-👋 Hi! I'm Omid Deliri
+<h1>👋 Hi! I'm Omid Daliri</h1>
+
 I'm 22 years old and passionate about programming, designing, and developing web pages. I'm proficient in HTML and CSS, and currently learning JavaScript and React. I also have extensive experience with WordPress and have developed several e-commerce websites using this platform.
 
 At present, I work as the IT Team Manager at Meshrafi Holding, where I've been honing my skills for over two years. Additionally, I have a solid understanding of SEO, which I apply to my projects.
@@ -7,10 +8,10 @@ I hold a Computer Science diploma, but I consider myself a perpetual student, al
 
 My goal is to become a successful Front-End Developer, and I’m committed to expanding my knowledge and skills every day.
 
-🔧 Currently working on becoming a "JavaScript Ninja." If you see me with my coffee, you can bet I'm debugging away! ☕
+_🔧 Currently working on becoming a "JavaScript Ninja." If you see me with my coffee, you can bet I'm debugging away! ☕_
 
 📫 Ways to get in touch with me:
 
-Email: [Add your link here]
-Instagram: [Add your link here]
-LinkedIn: [Add your link here]
+Email: omiidnk02@gmail.com </br>
+Instagram: [click here](https://www.instagram.com/omidnk__?igsh=a2txOHVmNHV1dG81&utm_source=qr) </br>
+LinkedIn: [click here](https://www.linkedin.com/in/omid-daliri-70b548323?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
