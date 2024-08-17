@@ -1,14 +1,6 @@
 <h1>👋 Hi! I'm Omid Daliri</h1>
 
-I'm 22 years old and passionate about programming, designing, and developing web pages. I'm proficient in HTML and CSS, and currently learning JavaScript and React. I also have extensive experience with WordPress and have developed several e-commerce websites using this platform.
-
-At present, I work as the IT Team Manager at 'Holding Moshrefi' where I've been honing my skills for over two years. Additionally, I have a solid understanding of SEO, which I apply to my projects.
-
-I hold a Computer Science diploma, but I consider myself a perpetual student, always eager to learn and explore new and valuable things. Watching movies and series is one of my favorite pastimes, and I proudly identify as a gamer.
-
-My goal is to become a successful Front-End Developer, and I’m committed to expanding my knowledge and skills every day.
-
-_🔧 Currently working on becoming a "JavaScript Ninja." If you see me with my coffee, you can bet I'm debugging away! ☕_
+Hi! I'm Omid, a passionate front-end developer with a deep love for coding. I've been working with WordPress for several years and have gained extensive expertise in this platform. I also have a solid understanding of SEO principles and apply them to enhance my projects. I'm always eager to learn and grow, constantly exploring new technologies and improving my skills. My goal is to create functional and beautiful websites and applications that offer an outstanding user experience.
 
 📫 Ways to get in touch with me:
 
