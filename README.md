@@ -6,3 +6,5 @@ a passionate front-end developer with a deep love for coding. I've been working 
 <div align="center">
     <img src="https://github.com/user-attachments/assets/14f674a3-4787-44a1-8359-a64df9590e2f" /><br>
 </div>
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
