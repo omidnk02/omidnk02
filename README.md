@@ -1,14 +1,18 @@
-<div align="left">
+<div align="center">
 
 # 👋 Hi, I'm Omid Daliri
 
 ### Frontend Developer | React · Next.js · TypeScript
 
-I’m a frontend developer with **2+ years of programming experience**, focused on building modern, responsive, and maintainable web applications.
+Building modern, responsive, and scalable web applications with a focus on clean UI, performance, and maintainable code.
 
-I mainly work with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, with a strong interest in performance, clean UI, and scalable frontend architecture.
-
-My background in **SEO and WordPress** also gives me a practical understanding of technical SEO, website performance, and building search-friendly web experiences.
+<p>
+  <a href="https://omiddaliri.top">Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/omidnk/">LinkedIn</a>
+  ·
+  <a href="https://github.com/omid-nk">GitHub</a>
+</p>
 
 </div>
 
@@ -16,13 +20,11 @@ My background in **SEO and WordPress** also gives me a practical understanding o
 
 ## 🧑‍💻 About Me
 
-* 💻 Frontend Developer focused on React and Next.js
-* ⚛️ Building applications with TypeScript and modern JavaScript
-* 🎨 Interested in clean UI, responsive design, and good UX
-* ⚡ Focused on performance and maintainable code
-* 🔍 3+ years of practical SEO experience alongside development
-* 🛠️ Comfortable working with REST APIs, databases, Git, and modern development tools
-* 📚 Always learning and improving through real-world projects
+I'm a **Frontend Developer** focused on building modern web applications with **React, Next.js, TypeScript, and Tailwind CSS**.
+
+I enjoy turning ideas and designs into responsive, accessible, and maintainable interfaces, while paying close attention to performance and user experience.
+
+I also have **3+ years of practical experience in SEO and WordPress**, giving me a strong understanding of technical SEO, web performance, and search-friendly development.
 
 ---
 
@@ -40,7 +42,7 @@ My background in **SEO and WordPress** also gives me a practical understanding o
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-### Backend & Database
+### Backend & Data
 
 <div>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
@@ -48,59 +50,35 @@ My background in **SEO and WordPress** also gives me a practical understanding o
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
 </div>
 
-### Tools
+### Tools & Deployment
 
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+</div>
+
+### SEO & CMS
+
+<div>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
-</div>
-
-### Design
-
-<div>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-</div>
-
-### SEO
-
-<div>
   <img src="https://img.shields.io/badge/Technical_SEO-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
 ---
 
 ## 🚀 What I Build
 
-I enjoy working on:
-
-* Modern React and Next.js applications
-* Responsive and reusable UI components
-* Dashboard and admin interfaces
-* E-commerce and content-driven websites
-* API-based applications
-* SEO-friendly and performance-focused websites
-
----
-
-## 📌 Featured Projects
-
-### Balerion LMS
-
-A modern learning management system built with **Next.js, TypeScript, Tailwind CSS, and Supabase**.
-
-* Authentication
-* Course management
-* Dashboard
-* Responsive UI
-* Database integration
-
-🔗 [View on GitHub](https://github.com/omid-nk/balerion)
+* ⚛️ Modern React & Next.js applications
+* 🎨 Responsive and reusable UI components
+* 📊 Dashboards and admin interfaces
+* 🛒 E-commerce applications
+* 🔌 API-driven applications
+* ⚡ Performance-focused web experiences
+* 🔍 SEO-friendly websites
 
 ---
 
@@ -108,23 +86,23 @@ A modern learning management system built with **Next.js, TypeScript, Tailwind C
 
 * Advanced TypeScript
 * Scalable React architecture
-* Next.js App Router
-* Backend architecture
-* Database design
-* Production-ready application development
 
 ---
 
-## 📫 Contact
+## 📫 Connect With Me
 
 <div align="center">
 
-<a href="mailto:omiidnk02@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<a href="https://omiddaliri.top">
+  <img src="https://img.shields.io/badge/Portfolio-155dfb?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
-<a href="https://github.com/omid-nk">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://www.linkedin.com/in/omidnk/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:omiidnk02@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <a href="https://t.me/omid_nk">
@@ -137,6 +115,6 @@ A modern learning management system built with **Next.js, TypeScript, Tailwind C
 
 <div align="center">
 
-**Building. Learning. Improving.**
+**Building modern web experiences with React & Next.js.**
 
 </div>
