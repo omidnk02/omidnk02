@@ -7,11 +7,11 @@
 Building modern, responsive, and scalable web applications with a focus on clean UI, performance, and maintainable code.
 
 <p>
-  <a href="https://omiddaliri.top">Portfolio</a>
+  <a href="https://omiddaliri.top" target="_blank">Portfolio</a>
   ·
-  <a href="https://www.linkedin.com/in/omidnk/">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/omidnk/" target="_blank">LinkedIn</a>
   ·
-  <a href="https://github.com/omid-nk">GitHub</a>
+  <a href="https://github.com/omid-nk" target="_blank">GitHub</a>
 </p>
 
 </div>
