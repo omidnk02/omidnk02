@@ -4,7 +4,7 @@
 
 ### Frontend Developer | React · Next.js · TypeScript
 
-Building modern, responsive, and scalable web applications with a focus on clean UI, performance, and maintainable code.
+I build modern, responsive, and user-focused web applications with a strong background in design, WordPress, and SEO.
 
 <p>
   <a href="https://omiddaliri.top" target="_blank">Portfolio</a>
@@ -22,9 +22,13 @@ Building modern, responsive, and scalable web applications with a focus on clean
 
 I'm a **Frontend Developer** focused on building modern web applications with **React, Next.js, TypeScript, and Tailwind CSS**.
 
-I enjoy turning ideas and designs into responsive, accessible, and maintainable interfaces, while paying close attention to performance and user experience.
+My journey in web development started with **design and WordPress**, where I developed a strong interest in creating websites and digital experiences. Over time, I moved deeper into frontend development and programming, focusing on building applications with modern JavaScript technologies.
 
-I also have **3+ years of practical experience in SEO and WordPress**, giving me a strong understanding of technical SEO, web performance, and search-friendly development.
+Before focusing on frontend development, I gained **3+ years of practical experience in SEO and WordPress**, along with hands-on experience in **graphic and UI design** using tools such as **Photoshop and Figma**.
+
+This background helps me approach frontend development not only from a coding perspective, but also with an understanding of **UI design, user experience, accessibility, performance, and SEO**.
+
+I enjoy turning ideas and designs into **clean, responsive, and maintainable web applications**.
 
 ---
 
@@ -46,8 +50,14 @@ I also have **3+ years of practical experience in SEO and WordPress**, giving me
 
 <div>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=black" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" />
+</div>
+
+### Design
+
+<div>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
 </div>
 
 ### Tools & Deployment
@@ -56,11 +66,10 @@ I also have **3+ years of practical experience in SEO and WordPress**, giving me
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </div>
 
-### SEO & CMS
+### CMS & SEO
 
 <div>
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
@@ -75,10 +84,41 @@ I also have **3+ years of practical experience in SEO and WordPress**, giving me
 * ⚛️ Modern React & Next.js applications
 * 🎨 Responsive and reusable UI components
 * 📊 Dashboards and admin interfaces
-* 🛒 E-commerce applications
+* 📚 Learning platforms and content-based applications
+* ✍️ Rich text editors and web-based tools
 * 🔌 API-driven applications
 * ⚡ Performance-focused web experiences
 * 🔍 SEO-friendly websites
+
+---
+
+## 📌 Featured Projects
+
+### 🔥 Balerion
+
+A modern learning management system and admin dashboard built with **Next.js, Tailwind CSS, and Supabase**.
+
+Built to explore real-world application architecture, authentication, dashboards, course management, and responsive UI.
+
+### ✍️ Tiptap Editor
+
+A lightweight web-based editor built with **Tiptap**, designed for creating structured content and exporting it as JSON.
+
+The project focuses on building a practical editing experience with a clean and responsive interface.
+
+---
+
+## 🎨 Design Background
+
+Before becoming focused on frontend development, I spent time working with **graphic design and visual tools**, including:
+
+* 🎨 Adobe Photoshop
+* 🖌️ Figma
+* 🧩 UI design
+* 🖼️ Graphic design
+* 🌐 Web design
+
+This experience influences the way I approach frontend development, especially when translating designs into real interfaces.
 
 ---
 
@@ -86,6 +126,8 @@ I also have **3+ years of practical experience in SEO and WordPress**, giving me
 
 * Advanced TypeScript
 * Scalable React architecture
+* Production-ready Next.js applications
+* Frontend performance and accessibility
 
 ---
 
@@ -115,6 +157,6 @@ I also have **3+ years of practical experience in SEO and WordPress**, giving me
 
 <div align="center">
 
-**Building modern web experiences with React & Next.js.**
+**Designing with purpose. Building with code.**
 
 </div>
